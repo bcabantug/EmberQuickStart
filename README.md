@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
@@ -54,3 +55,7 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+=======
+# EmberQuickStart
+Beginning EmberJS
+>>>>>>> e8e5be404229468915b7c8bba8846cfd3a55e765
